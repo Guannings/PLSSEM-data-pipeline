@@ -1,0 +1,34 @@
+# ── No data is ever committed to this repo ──────────────────────────
+# Real survey data is confidential and stays out of version control.
+# Run data_prep/generate_synthetic_data.py to create local test data.
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.RData
+*.Rhistory
+data/
+synthetic_data/
+r_results/
+output/
+
+# ── Generated figures ───────────────────────────────────────────────
+*.png
+*.pdf
+figures_output/
+
+# ── Python ──────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ── R ───────────────────────────────────────────────────────────────
+.Rproj.user/
+*.Rproj
+
+# ── OS / editor ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
