@@ -16,8 +16,8 @@ the original study for which the underlying pipeline was first developed.
 
 ### 2. NO REAL DATA — CONFIDENTIALITY
 
-This repository contains NO real survey data, NO respondent records, and NO
-actual study results. The original questionnaire data is confidential and is
+**This repository contains NO real survey data, NO respondent records, and NO
+actual study results.** The original questionnaire data is confidential and is
 deliberately excluded from version control. Any data produced by
 `data_prep/generate_synthetic_data.py` is randomly fabricated for the sole
 purpose of allowing the pipeline to run; it represents no real persons,
