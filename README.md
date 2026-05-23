@@ -74,7 +74,7 @@ OUTCOMES, OR SYSTEM INTEGRITY.**
 
 ---
 
-## Overview
+# Overview
 
 A reproducible analysis pipeline for **Likert-scale survey data** built around the
 **Theory of Planned Behavior (TPB)** and estimated with **Partial Least Squares
